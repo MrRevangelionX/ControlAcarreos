@@ -1,0 +1,1 @@
+{"codempresa":"9","codsucursal":"31","codproyecto":"1","codLocacion":"5","transOwner":"QWERTY","transPlate":"P123","transCapacity":"0w0","transMaterial":"7","checkpoint":"2022-03-17 15:18:07"}
